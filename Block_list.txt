@@ -37,7 +37,6 @@
 127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagservices.com
-127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 tracking.prd.mz.internal.unity3d.com
 127.0.0.1 publisher-event.unityads.unity3d.com
 127.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
