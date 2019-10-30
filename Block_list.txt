@@ -54,7 +54,5 @@
 127.0.0.1 my-m.lazada.com.my
 127.0.0.1 p33-buy.itunes-apple.com.akadns.net
 127.0.0.1 scontent.xx.fbcdn.net
-127.0.0.1 star-mini.c10r.facebook.com
-127.0.0.1 star.c10r.facebook.com
 127.0.0.1 www.foodpanda.sg
 127.0.0.1 www.lazada.sg
