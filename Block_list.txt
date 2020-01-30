@@ -60,3 +60,4 @@
 127.0.0.1 scontent.xx.fbcdn.net
 127.0.0.1 www.foodpanda.sg
 127.0.0.1 www.lazada.sg
+127.0.0.1 3.bp.blogspot.com
